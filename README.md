@@ -7,3 +7,6 @@ If you want to get an idea of what the website will look like, check out this li
 
 The tutorial is used on the lawshe:full-page package.
 
+The site looks something like this:
+
+<a href="http://nl.tinypic.com?ref=5l9cvl" target="_blank"><img src="http://i60.tinypic.com/5l9cvl.gif" border="0" alt="Image and video hosting by TinyPic"></a>
