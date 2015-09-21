@@ -5,3 +5,5 @@ Hallo and welcome to my first tutorial. In this tutorial I will explain how you 
 
 If you want to get an idea of what the website will look like, check out this link: http://alvarotrigo.com/fullPage/#firstPage
 
+The tutorial is used on the lawshe:full-page package.
+
