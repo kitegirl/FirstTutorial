@@ -39,7 +39,7 @@ if (Meteor.isClient) {
         controlArrows: true,
         verticalCentered: true,
         resize : false,
-        sectionsColor : ['#ccc', '#fff'],
+        sectionsColor : ['#FF0066', '#00FFFF', '#FF0066', '#00FFFF'],
         paddingTop: '3em',
         paddingBottom: '10px',
         fixedElements: '#header, .footer',
